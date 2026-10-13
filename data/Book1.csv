@@ -1,0 +1,12 @@
+﻿Facility,Scale,Ownership,ReferenceEvidence,Observability,Hormuz,StudyRole,Latitude,Longitude
+"Shandong Jingbo, China",M (~150 kbpd),Private “teapot”; unlisted,Low – little facility-level public evidence,Low – clustered inland site; limited distinct signals,High – substantial exposure; deep output cuts,Low-observability test,37.178,118.226
+,L,,,,,,,
+"SK Energy, Ulsan, South Korea",L; 840 kbpd;,Listed-parent subsidiary,"High – company filings, earnings, and extensive public reporting","High – large, distinct coastal complex",High – major Middle East exposure; deep production cuts,Benchmark / calibration case,35.4332,129.3429
+,M (NCI 7.25),,,,,,,
+"Shell Pernis, Netherlands",L (~404–445 kbpd) M (NCI 6.57),Integrated major,"Medium–High – strong reporting, but Pernis throughput not publicly disaggregated","High – clear process-unit, flare, and tank signals",Low–Medium – diversified crude slate; limited output change,Stable comparison baseline,51.85225,4.53747
+"Reliance Jamnagar, India","L (1,400 kbpd)",Listed private company,"High – detailed disclosures, but reporting is aggregated across a complex site",Medium – adjoining DTA and SEZ refinery systems create a disaggregation challenge,High – direct routing exposure; crude substitution,Complex-site disaggregation case,22.3452,69.8596
+,H (NCI 21.1),,,,,,,
+"Cnergyico Hub, Pakistan",M (156 kbpd),Listed private company,"Medium – company reporting and national context, but limited facility-level detail",Low–Medium – moderate flare and tank signals,High – operational and crude-sourcing change,Intermediate-observability case,24.90995,66.70840
+,L,,,,,,,
+"Valero Benicia, USA",M (170 kbpd) ,Listed US company,"High – SEC, company, and local regulatory records","High – strong historical flare, CDU, and coker signals",None – early-2026 wind-down unrelated to Hormuz,Pre-course feasibility / workflow pilot,38.07201,-122.13818
+,H (NCI 16.1),,,,,,,

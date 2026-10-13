@@ -1,0 +1,10 @@
+{
+  "type": "FeatureCollection",
+  "features": [],
+  "metadata": {
+    "generated_at": "2026-09-30T23:12:17Z",
+    "source": "Overpass API",
+    "query_type": "industrial_refinery_boundaries",
+    "search_window_degrees": 0.1
+  }
+}

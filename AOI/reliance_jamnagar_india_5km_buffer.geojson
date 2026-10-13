@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "facility": "Reliance Jamnagar, India",
+        "center_lat": 22.3452,
+        "center_lon": 69.8596,
+        "buffer_km": 5,
+        "aoi_size_km": "10x10"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              69.8108979197311,
+              22.30015495495495
+            ],
+            [
+              69.9083020802689,
+              22.30015495495495
+            ],
+            [
+              69.9083020802689,
+              22.390245045045045
+            ],
+            [
+              69.8108979197311,
+              22.390245045045045
+            ],
+            [
+              69.8108979197311,
+              22.30015495495495
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
